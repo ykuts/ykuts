@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Data Extraction & Full-Stack Development Specialist
 
-<!--
-**ykuts/ykuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+Former **National Bank of Ukraine** systems analyst with expertise in:
+- 🔍 **Data Extraction & Web Scraping**
+- 💻 **Full-Stack Development** (React, Node.js, Python)
+- 🤖 **AI Integration** (Gen-AI, automation)
+- 🏦 **Banking Systems** (APIs, regulatory compliance)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, Java, SQL  
+**Frontend:** React, Angular, HTML/CSS  
+**Backend:** Node.js, Spring Boot, API development  
+**Databases:** PostgreSQL, Oracle, MySQL  
+**Tools:** Git, Docker, AWS, Railway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Projects
+- **[Data Extraction Portfolio](https://github.com/ykuts/data-extraction-portfolio)** - Professional scraping & processing tools
+- **[Data for Impact – Portfolio](https://github.com/ykuts/data-for-impact-portfolio)** - Data projects focused on social good, decision-making, and real-world impact
+- **[E-commerce Platform](https://github.com/ykuts/syrnyk-eng)** - Full-stack React/Node.js solution
+
+## 🌍 Currently 
+💼 Available for freelance data extraction & full-stack projects  
+🎯 Specializing in banking/fintech solutions
